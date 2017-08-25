@@ -1,0 +1,24 @@
+{
+  "name": "aliyun-dysms-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.alibaba-inc.com:alidayu/aliyun-dysms-sdk.git"
+  },
+  "author": "chuck.ql",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.0.2"
+  },
+  "dependencies": {
+    "@alicloud/dybaseapi": "^1.0.0",
+    "@alicloud/dysmsapi": "^1.0.0",
+    "@alicloud/mns": "^1.0.0-beta4",
+    "@alicloud/sms-sdk": "^1.0.2"
+  }
+}
